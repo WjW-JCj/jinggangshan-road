@@ -1,0 +1,9 @@
+# robots.txt —— 星星之火 · 井冈山道路
+# 允许所有搜索引擎抓取全站
+
+User-agent: *
+Allow: /
+
+# 部署后由 tools/set-site-url.py 自动补上下面一行：
+
+Sitemap: https://wjw-jcj.github.io/jinggangshan-road/sitemap.xml

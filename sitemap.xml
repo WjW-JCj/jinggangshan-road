@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://wjw-jcj.github.io/jinggangshan-road/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://wjw-jcj.github.io/jinggangshan-road/assets/cover.jpg</image:loc>
+      <image:title>星星之火 可以燎原</image:title>
+    </image:image>
+  </url>
+</urlset>
